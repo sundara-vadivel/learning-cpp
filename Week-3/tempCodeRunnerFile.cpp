@@ -1,1 +1,0 @@
-Pattern3(n);
