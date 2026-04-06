@@ -8,7 +8,7 @@ int main() {
     double num2;
     double result;
 
-    cout << "********* CALCULATOR ***********\n";
+    cout << "******CALCULATOR******\n";
 
     cout << "Enter either (+ - * /): ";
     cin >>a;
